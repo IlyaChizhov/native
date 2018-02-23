@@ -1,0 +1,1 @@
+export const pixApiKey = '8142114-8b4d3279c855098d62bc74857'
